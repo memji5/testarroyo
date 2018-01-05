@@ -1,0 +1,6 @@
+#Thu, 04 Jan 2018 17:42:22 -0600
+
+grails.env=development
+info.app.version=0.1
+info.app.grailsVersion=3.2.4
+info.app.name=test
